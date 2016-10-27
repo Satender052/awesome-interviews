@@ -33,6 +33,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [KnockoutJS](#knockoutjs)
   - [Less](#less)
   - [Lisp](#lisp)
+ 
   - [NodeJS](#nodejs)
   - [Objective-C](#objective-c)
   - [PHP](#php)
@@ -205,7 +206,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Java Interview Questions: How to crack the TOP 15 questions](https://blog.udemy.com/java-interview-questions/)
 * [Top 10 Tricky Java interview questions and Answers](http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html)
 * [Top 40 Core Java Interview Questions Answers from Telephonic Round](http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
-
+http://quiz.geeksforgeeks.org/java/functions-2/<br>
 ### JavaScript
 
 * [JavaScript 101 interview Question](https://github.com/nishant8BITS/101-JavaScript-Interview-Question)
